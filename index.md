@@ -1,10 +1,11 @@
-## Welcome to GitHub Pages
+## Mental Mint
 
-You can use the [editor on GitHub](https://github.com/Gordeev-Kroll/Project/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+Приложение с возможностью психологической поддержки, основанной на индивидуальных особенностях пользователя и показателях его организма![image]([https://user-images.githubusercontent.com/107766781/174449410-fe56f60e-65c6-4727-8bc2-acb8cf327be7.png](https://img5.goodfon.ru/wallpaper/nbig/1/f6/miata-fon-zelen-rastenie.jpg))
+
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
+### Что здесь
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
